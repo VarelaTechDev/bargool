@@ -1,0 +1,21 @@
+To remove the Git part of a folder
+sudo rm -rf .git
+
+Create the React app inside the folder we are currently working on
+npx create-react-app ./
+
+Delete the src folder
+Create a new src folder: index.js
+
+
+In App.js --> rafce
+
+Go to tailwindcss and go to documentation --> Read the docs Start learning -->  create react app
+https://tailwindcss.com/docs/guides/create-react-app
+
+<div className='bg-gray-500'>
+                App
+            </div>
+
+View the tailwind Documentation to view what they offer and what you can do about it
+Allow us to use CSS without leaving HTML
