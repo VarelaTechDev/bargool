@@ -19,3 +19,8 @@ https://tailwindcss.com/docs/guides/create-react-app
 
 View the tailwind Documentation to view what they offer and what you can do about it
 Allow us to use CSS without leaving HTML
+
+npm i react-router-dom react-player react-loader-spinner use-debounce
+
+
+Change 'darkmode: false' in tailwind.config.js to 'class' to allow it to change with user iteraction
