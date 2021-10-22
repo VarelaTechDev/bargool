@@ -24,3 +24,22 @@ npm i react-router-dom react-player react-loader-spinner use-debounce
 
 
 Change 'darkmode: false' in tailwind.config.js to 'class' to allow it to change with user iteraction
+
+"?." <- is an optional chaning operator
+
+a = {}
+console.log(a.b.c)
+
+*Uncaught TypeError: Cannot read property 'c' of undefined*
+
+**IF you don't want to add a try-catch, but it's acceptable for that value to be absent**
+
+a = {}
+console.log(a.b?.c)
+
+-> Result in undefined to be printed to the console. The error is accessing c is silently handled
+
+What does use-debounce mean?
+Want changes to happen when we type things in
+Each individual letter makes a new request //s(request)u(request) <-- SLOW
+Only make a request after a certain amount of time
