@@ -3,8 +3,7 @@
 # Live Demo
 https://bargool.netlify.app/search
 
-This project uses [Rapid API](https://rapidapi.com/).
-This project uses [TailwindCss](https://tailwindcss.com/).
+This project uses [Rapid API](https://rapidapi.com/), [React](https://reactjs.org/), and [TailwindCss](https://tailwindcss.com/).
 
 ## How to run the project
 
