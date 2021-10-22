@@ -1,5 +1,8 @@
 # Google Clone using Google API to get search results
 
+# Live Demo
+https://bargool.netlify.app/search
+
 This project used [Rapid API](https://rapidapi.com/).
 This project used [TailwindCss](https://tailwindcss.com/).
 
