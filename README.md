@@ -1,7 +1,7 @@
 # Google Clone using Google API to get search results
 
 # Live Demo
-https://bargool.netlify.app/search
+https://bargool.netlify.app/
 
 This project uses [Rapid API](https://rapidapi.com/), [React](https://reactjs.org/), and [TailwindCss](https://tailwindcss.com/).
 
