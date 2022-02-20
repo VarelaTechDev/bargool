@@ -12,5 +12,5 @@ This project uses [Rapid API](https://rapidapi.com/), [React](https://reactjs.or
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Images displayed when searching Aki Rosenthal
-![image](https://user-images.githubusercontent.com/64375555/138374654-90e07f27-49da-420c-b236-33a0b1f17bee.png)
+### Images displayed when searching GitHub
+![gitHubbargool](https://user-images.githubusercontent.com/64375555/154870062-cfa3a6a9-09aa-4eea-a948-e6662138bb41.PNG)
